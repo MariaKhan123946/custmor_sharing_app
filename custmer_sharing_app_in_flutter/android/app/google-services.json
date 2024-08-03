@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "537439109145",
+    "project_id": "elegant-atom-412716",
+    "storage_bucket": "elegant-atom-412716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537439109145:android:7cf9e4de57db8d4199aa88",
+        "android_client_info": {
+          "package_name": "com.example.custmer_sharing_app_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537439109145-a169q11svf3v5nla3udjs0n77krtimpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0SK4NG3q7QgBZJhNAc-80kaxZq4RxM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537439109145-a169q11svf3v5nla3udjs0n77krtimpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537439109145:android:fc3e91e9cbb042a599aa88",
+        "android_client_info": {
+          "package_name": "com.example.customer_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537439109145-c6qpp91dp9mq9v1mdobihdpdj7pupnnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.customer_sharing",
+            "certificate_hash": "1895e7dab1bf5b3b403aca9a4b6b981d7f336f9d"
+          }
+        },
+        {
+          "client_id": "537439109145-a169q11svf3v5nla3udjs0n77krtimpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0SK4NG3q7QgBZJhNAc-80kaxZq4RxM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537439109145-a169q11svf3v5nla3udjs0n77krtimpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
